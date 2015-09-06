@@ -56,6 +56,6 @@ Let's run it with the included run script:
 ./makeTree.sh example.tree
 ```
 
-If that doesn't work, make sure you have all the required dependencies. Now, let's look at our pretty graph!
+Now, let's look at our pretty graph!
 
 ![](example.tree.png)
