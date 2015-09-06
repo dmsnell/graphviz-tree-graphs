@@ -1,0 +1,12 @@
+Josie knew Abby was sometimes difficult.
+
+tree
+	S
+		NP
+			N - Josie
+		VP
+			V - Knew
+			S'
+				NP - Abby
+				ADV - sometimes
+				ADJ - difficult
